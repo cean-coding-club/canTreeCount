@@ -36,5 +36,5 @@ A bounding box around each tree should allow us to count all trees but also obta
 ### Compile relevant papers/publications
 We should add any relevant papers to a new file in the project folder, with hyperlinks to the paper
 
-# 
-
+#### Datasets
+- [Paper](https://doi.org/10.3389/ffgc.2024.1495544): *VHRTrees: a new benchmark dataset for tree detection in satellite imagery and performance evaluation with YOLO-based models*. [Dataset/YOLO models weights](https://github.com/RSandAI/VHRTrees): (check links in the README).
