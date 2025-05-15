@@ -14,3 +14,4 @@ Check the [issues list](https://github.com/cean-coding-club/canTreeCount/issues)
 
 ## Papers
 - [Paper](https://doi.org/10.3389/ffgc.2024.1495544): *VHRTrees: a new benchmark dataset for tree detection in satellite imagery and performance evaluation with YOLO-based models*. [Dataset/YOLO models weights](https://github.com/RSandAI/VHRTrees): (check links in the README).
+- [Additional Paper](https://doi.org/10.1063/5.0192745) *Anand Raju; Tree counting and classification of different level of trees using machine learning algorithms*. 
